@@ -1,0 +1,13 @@
+main {
+    margin: 0;
+    height: auto;
+}
+
+
+@media screen and (max-width: 450px){
+    .contem-noticias {
+        margin-top: 190px;
+    }
+
+    
+}

@@ -1,0 +1,42 @@
+main {
+    margin: 0;
+    height: auto;
+}
+
+
+@media screen and (max-width: 450px){
+    
+    .abertura{
+        display: grid;
+        align-items: center;
+        margin: 0 auto;
+    }
+    
+    .noticias-home {
+        width: 100%;
+        flex-direction: column;
+        display: grid;
+        margin-top: 20px;
+        gap: 10px;
+    }
+
+    .contem-noticias {
+        display: block;
+        display: grid;
+        flex-direction: column;
+        gap: 350px;
+        margin-top: 190px;
+    }
+
+    .noticias-home2 {
+        width: 100%;
+        margin-top: 10px;
+        flex-direction: column;
+        display: grid;
+        margin-bottom: 0px;
+        gap: 50px;
+    }
+
+
+
+}
