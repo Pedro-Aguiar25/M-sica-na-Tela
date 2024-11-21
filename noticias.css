@@ -3,7 +3,7 @@ main{
     display: block;
     align-items: center;
     width: 100%;
-    height: 1700px;
+    height: 1800px;
 }
 
 
@@ -60,6 +60,10 @@ footer{
         width: 100%; 
         height: 95%;
         border: none;
+    }
+
+    main{
+        height: 2000px;
     }
 
 }
