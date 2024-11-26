@@ -90,6 +90,7 @@ nav:hover .texto-nav {
     display: block;
     font-size: 15px;
     font-family: "Ubuntu", sans-serif;
+    color: rgb(255, 255, 255);
 }
 
 .menu-cell {
